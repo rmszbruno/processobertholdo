@@ -1,0 +1,182 @@
+.contact {
+    padding-top: 0.5rem;
+    background-color: #c20102;
+    padding-bottom: 0.5rem;
+    color: white;
+}
+
+.fontcontact {
+    font-size: 0.95rem;
+}
+
+#logo{
+    font-size: 2rem;
+    padding-left: 4rem;
+    color: white;
+    font-weight: 1000;
+}
+
+.fontnavbar{
+    padding-top: 0.5rem;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+#quemsomos{
+    font-size: 0.80rem;
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
+
+#gondolas{
+    font-size: 0.80rem;
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
+
+#moveis{
+    font-size: 0.80rem;
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
+
+#armazenagem{
+    font-size: 0.80rem;
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
+
+#contato{
+    font-size: 0.80rem;
+    background-color: #fe0000;
+    border-color: #fe0000;
+}
+
+.btn{
+    background-color: red;
+}
+
+#carouselbanner{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.fouroptions{
+    font-size: 1.3rem;
+    color: #ffdd8b;
+    font-weight: 800;
+    padding-bottom: 2rem;
+}
+
+.btn-strong{
+    font-weight: 600;
+}
+
+#preenchadados{
+    font-weight: 600;
+    border-width: 2px;
+}
+
+#conversegente{
+    font-weight: 600;
+    border-width: 2px;
+}
+
+#facaorcamento{
+    font-weight: 600;
+    border-width: 2px;
+}
+
+#facacadastro{
+    font-weight: 600;
+    border-width: 2px;
+}
+
+#wppimg{
+    width: 20rem;
+    height: auto;
+}
+
+#btnzap{
+    background-color: #29a71a;
+    background-color: #29a71a;
+}
+
+#soliciteorcamento{
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+#nossosprodutos{
+    font-weight: 800;
+    font-size: 1.6rem;
+}
+
+#nossoscontainer{
+    background-color: #ebebeb;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#solicitewhatsapp{
+    background-color: #ffffff;
+}
+
+.redtext{
+    color: #fa222a;
+}
+
+#textrevendedor{
+    font-size: 1.7rem;
+    font-weight: 900;
+}
+
+#sejarevendedor{
+    background-image: url(backgroundrevendedor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cadastrerevendedor{
+    font-weight: 600;
+}
+
+#enviarcadastro{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.asteristico{
+    color: red;
+}
+
+.preco{
+    font-weight: 900;
+}
+
+.parcela{
+    color: #adadad;
+}
+
+#navbarprincipal{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
