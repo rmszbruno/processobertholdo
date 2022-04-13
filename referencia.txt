@@ -1,1 +1,49 @@
 https://processoseletivo.bertholdo.com.br/frontend/LayoutTeste.jpg
+
+      <!-- inicio footer -->
+      <div class="container-fluid">
+        <br><br>
+        <div class="row">
+          <div class="col-1"></div>
+          <div class="col-1">LOGOTIPO</div>
+        </div>
+        <br><br>
+        <div class="row">
+          <div class="col-1"></div>
+          <div class="col-2">
+            <p>QUEM SOMOS</p>
+            <p>GÔNDOLAS</p>
+            <p>MÓVEIS DE AÇO</p>
+            <p>ARMAZENAGEM</p>
+            <p>CONTATO</p>
+          </div>
+          <div class="col-2">
+            <p>FAÇA SEU ORÇAMENTO</p>
+            <p>SEJA UM COLABORADOR</p>
+            <br>
+            <p>SIGA-NOS NAS REDES</p>
+            <div class="row">
+              <div class="col-2"><i class="fa-brands fa-facebook-square"></i></div>
+              <div class="col-2"><i class="fa-brands fa-instagram"></i></div>
+            </div>
+          </div>
+          <div class="col-1"></div>
+          <div class="col-3">
+            <p>LOJA BH (a 5km do centro!)</p>
+            <p>Av. Professor Mário Werneck, 26 - 2² Andar</p>
+            <p>Belo Horizonte - MG, CEP:30455-610</p>
+            <p>comercial@comercial.com.br</p>
+            <p>TELEFONE1</p>
+            <p>TELEFONE2</p>
+          </div>
+          <div class="col-3">
+            <p>LOJA BH (a 5km do centro!)</p>
+            <p>Av. Professor Mário Werneck, 26 - 2² Andar</p>
+            <p>Belo Horizonte - MG, CEP:30455-610</p>
+            <p>comercial@comercial.com.br</p>
+            <p>TELEFONE1</p>
+            <p>TELEFONE2</p>
+          </div>
+        </div>
+      </div>
+      <!-- fim footer -->
